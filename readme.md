@@ -1,11 +1,11 @@
-# is-even-but-better
+# is-even-but-even-better
 
 Checks if the provided number is even but with a completely new way of checking.
 
 ## Usage
 
 ```js
-import isEven from "is-even-but-better"
+import isEven from "is-even-but-even-better"
 
 console.log(isEven(1)) // OUTPUT: FALSE
 console.log(isEven(2)) // OUTPUT: TRUE
