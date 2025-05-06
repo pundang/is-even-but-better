@@ -1,0 +1,29 @@
+{
+  "name": "is-even-but-better",
+  "version": "1.0.0",
+  "description": "Checks if a number is even.",
+  "keywords": [
+    "is",
+    "better",
+    "even",
+    "improved",
+    "numbers",
+    "number",
+    "check"
+  ],
+  "homepage": "https://github.com/pundang/is-even-but-better#readme",
+  "bugs": {
+    "url": "https://github.com/pundang/is-even-but-better/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pundang/is-even-but-better.git"
+  },
+  "license": "ISC",
+  "author": "pundang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
