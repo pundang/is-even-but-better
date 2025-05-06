@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/pundang/is-even-but-better.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "pundang",
   "type": "commonjs",
   "main": "index.js",
