@@ -11,13 +11,13 @@
     "number",
     "check"
   ],
-  "homepage": "https://github.com/pundang/is-even-but-better#readme",
+  "homepage": "https://github.com/pundang/is-even-but-even-better#readme",
   "bugs": {
-    "url": "https://github.com/pundang/is-even-but-better/issues"
+    "url": "https://github.com/pundang/is-even-but-even-better/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pundang/is-even-but-better.git"
+    "url": "git+https://github.com/pundang/is-even-but-even-better.git"
   },
   "license": "MIT",
   "author": "pundang",
